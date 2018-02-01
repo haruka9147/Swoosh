@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Swoosh</string>
+    <string name="backgroud_image">backgroud image</string>
 </resources>
